@@ -7,9 +7,9 @@ public class BookCricketGameTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		BookCricketGame bookcricketgame = new BookCricketGame();
-		System.out.println(bookcricketgame.playerOneScore("SARVESH"));
+		System.out.println(bookcricketgame.scoreOfPlayerOne("SARVESH"));
 		System.out.println("********************************");
-		System.out.println(bookcricketgame.playerTwoScore("SHUBHAM"));
+		System.out.println(bookcricketgame.scoreOfPlayerTwo("SHUBHAM"));
 		
 	}
 
